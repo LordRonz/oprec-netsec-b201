@@ -1,0 +1,14 @@
+{
+  "name": "oprec-netsec-b201",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "LordRonz <aarontanhar2000@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier -w .",
+    "format:check": "prettier -c ."
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
